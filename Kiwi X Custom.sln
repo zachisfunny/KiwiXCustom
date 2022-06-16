@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kiwi X Custom", "Kiwi X Custom\Kiwi X Custom.csproj", "{BBAE9903-301C-4589-9983-A5D6EC93A460}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBAE9903-301C-4589-9983-A5D6EC93A460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBAE9903-301C-4589-9983-A5D6EC93A460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBAE9903-301C-4589-9983-A5D6EC93A460}.Debug|x86.ActiveCfg = Release|x86
+		{BBAE9903-301C-4589-9983-A5D6EC93A460}.Debug|x86.Build.0 = Release|x86
+		{BBAE9903-301C-4589-9983-A5D6EC93A460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBAE9903-301C-4589-9983-A5D6EC93A460}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBAE9903-301C-4589-9983-A5D6EC93A460}.Release|x86.ActiveCfg = Release|x86
+		{BBAE9903-301C-4589-9983-A5D6EC93A460}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31E071FD-3A84-4939-8D6A-D4A7790B79B7}
+	EndGlobalSection
+EndGlobal
